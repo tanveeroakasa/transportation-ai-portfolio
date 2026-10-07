@@ -1,0 +1,18 @@
+<!-- Social sharing / LinkedIn preview -->
+<link rel="canonical" href="https://tanveeroakasa.github.io/transportation-ai-portfolio/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://tanveeroakasa.github.io/transportation-ai-portfolio/">
+<meta property="og:title" content="Tanveer Alam Oakasa | Transportation Modeling, Mobility Intelligence & Applied AI">
+<meta property="og:description" content="20+ years in transportation planning and modeling, with extensive work in Makkah and Saudi Arabia — now integrating AI, large-scale mobility data and intelligent automation.">
+<meta property="og:image" content="https://tanveeroakasa.github.io/transportation-ai-portfolio/assets/social-preview.png">
+<meta property="og:image:secure_url" content="https://tanveeroakasa.github.io/transportation-ai-portfolio/assets/social-preview.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Tanveer Alam Oakasa — Transportation Modeling, Mobility Intelligence and Applied AI">
+<meta property="og:site_name" content="Tanveer Alam Oakasa Portfolio">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Tanveer Alam Oakasa | Transportation Modeling, Mobility Intelligence & Applied AI">
+<meta name="twitter:description" content="20+ years in transportation planning and modeling — now integrating AI, mobility data and intelligent automation.">
+<meta name="twitter:image" content="https://tanveeroakasa.github.io/transportation-ai-portfolio/assets/social-preview.png">
